@@ -7,7 +7,7 @@ class GuessingGame {
   setRange(mn, mx) {
     this.mn = mn;
     this.mx = mx;
-    console.log("min " + this.mn + " max " + this.mx);
+    // console.log("min " + this.mn + " max " + this.mx);
   }
 
   guess() {
